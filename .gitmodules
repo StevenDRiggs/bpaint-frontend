@@ -1,3 +1,6 @@
 [submodule "website"]
 	path = website
 	url = git@github.com:StevenDRiggs/bpaint-frontend-website.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:StevenDRiggs/bpaint-frontend-mobile.git
